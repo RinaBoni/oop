@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T12:33:44.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.61" etag="IN__7CDmh_hCLycsKTHL" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T14:46:25.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.61" etag="VYGl3PTDB_ylK7N9iPo3" version="15.5.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="810" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="261" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -9,7 +9,7 @@
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="570bbLZpeUChZeXISY6o-0" value="&lt;div&gt;Марка&lt;/div&gt;&lt;div&gt;Вкус&lt;/div&gt;&lt;div&gt;Энергетическая ценность&lt;/div&gt;&lt;div&gt;Кофеин&lt;/div&gt;&lt;div&gt;Таурин&lt;/div&gt;&lt;div&gt;Витамины&lt;/div&gt;&lt;div&gt;Цена&lt;/div&gt;&lt;div&gt;Внешний вид банки&lt;/div&gt;&lt;div&gt;Открывашка&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
+        <mxCell id="570bbLZpeUChZeXISY6o-0" value="&lt;div&gt;Марка&lt;/div&gt;&lt;div&gt;Вкус&lt;/div&gt;&lt;div&gt;Энергетическая ценность&lt;/div&gt;&lt;div&gt;Кофеин&lt;/div&gt;&lt;div&gt;Таурин&lt;/div&gt;&lt;div&gt;&lt;span&gt;Цена&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Количество открывашек&lt;/div&gt;&lt;div&gt;Количество скопленных банок&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
           <mxGeometry y="26" width="160" height="154" as="geometry" />
         </mxCell>
         <mxCell id="570bbLZpeUChZeXISY6o-3" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="zkfFHV4jXpPFQw0GAbJ--17" source="570bbLZpeUChZeXISY6o-0" target="570bbLZpeUChZeXISY6o-0">
@@ -18,7 +18,7 @@
             <mxPoint x="130" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="570bbLZpeUChZeXISY6o-4" value="&lt;div&gt;Коллекционировать банки&lt;/div&gt;&lt;div&gt;Пить для энергии&lt;/div&gt;&lt;div&gt;Пить просто потому, что он вкусный&lt;/div&gt;&lt;div&gt;При 13 банках появляется возможность сделать автомат из банок&lt;/div&gt;&lt;div&gt;При 8 банках можно сделать корону&lt;/div&gt;&lt;div&gt;При &amp;gt;100 ключей можно сделать цепь на шею (ожерелье)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
+        <mxCell id="570bbLZpeUChZeXISY6o-4" value="&lt;div&gt;Коллекционировать банки&lt;/div&gt;&lt;div&gt;Коллекционировать открывашки&lt;br&gt;&lt;/div&gt;&lt;div&gt;При 13 банках появляется возможность сделать автомат из банок&lt;/div&gt;&lt;div&gt;При 8 банках можно сделать корону&lt;/div&gt;&lt;div&gt;При &amp;gt;100 ключей можно сделать цепь на шею (ожерелье)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--17">
           <mxGeometry y="180" width="160" height="180" as="geometry" />
         </mxCell>
       </root>
