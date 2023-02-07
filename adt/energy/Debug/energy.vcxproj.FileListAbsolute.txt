@@ -1,0 +1,2 @@
+C:\Users\User\Documents\учеба\ооп\energy\Debug\energy.exe
+C:\Users\User\Documents\учеба\ооп\adt\energy\Debug\energy.exe
