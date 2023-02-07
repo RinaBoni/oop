@@ -1,0 +1,6 @@
+﻿  test.cpp
+C:\Users\User\Documents\учеба\ооп\Sample-Test12\test.cpp(41,1): error C2011: Energy_drinks_GetEnergyValue_Test: переопределение типа "class"
+C:\Users\User\Documents\учеба\ооп\Sample-Test12\test.cpp(33): message : см. объявление "Energy_drinks_GetEnergyValue_Test"
+C:\Users\User\Documents\учеба\ооп\Sample-Test12\test.cpp(41,1): error C2027: использование неопределенного типа "Energy_drinks_GetEnergyValue_Test"
+C:\Users\User\Documents\учеба\ооп\Sample-Test12\test.cpp(33): message : см. объявление "Energy_drinks_GetEnergyValue_Test"
+C:\Users\User\Documents\учеба\ооп\Sample-Test12\test.cpp(75,22): warning C4305: аргумент: усечение из "double" в "float"

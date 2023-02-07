@@ -1,0 +1,9 @@
+﻿  matrix3.cpp
+C:\Users\User\Documents\учеба\ооп\matrix3\matrix3.cpp(33,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Documents\учеба\ооп\matrix3\matrix3.cpp(34,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\ооп\matrix3\matrix3.cpp(36,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\ооп\matrix3\matrix3.cpp(46,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\ооп\matrix3\matrix3.cpp(48,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\ооп\matrix3\matrix3.cpp(59,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\ооп\matrix3\matrix3.cpp(61,27): warning C4018: <: несоответствие типов со знаком и без знака
+  matrix3.vcxproj -> C:\Users\User\Documents\учеба\ооп\matrix3\Debug\matrix3.exe

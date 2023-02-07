@@ -1,0 +1,6 @@
+C:\Users\User\Documents\учеба\ооп\Sample-Test12\Debug\Sample-Test12.vcxproj.CopyComplete
+C:\Users\User\Documents\учеба\ооп\Sample-Test12\Debug\Sample-Test12.exe
+C:\Users\User\Documents\учеба\ооп\Sample-Test12\Debug\gtestd.dll
+C:\Users\User\Documents\учеба\ооп\Sample-Test12\Debug\gtest_maind.dll
+C:\Users\User\Documents\учеба\ооп\Sample-Test12\Debug\gtestd.pdb
+C:\Users\User\Documents\учеба\ооп\Sample-Test12\Debug\gtest_maind.pdb

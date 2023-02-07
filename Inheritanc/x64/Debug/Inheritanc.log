@@ -1,0 +1,6 @@
+﻿  Inheritanc.cpp
+  Musician.cpp
+  Person.cpp
+  Programmer.cpp
+C:\Users\User\Documents\учеба\ооп\Inheritanc\Programmer.cpp(120,60): error C2110: +: невозможно добавить два указателя
+  Создание кода...

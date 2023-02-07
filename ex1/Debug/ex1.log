@@ -1,0 +1,8 @@
+﻿  Source1.cpp
+C:\Users\User\Documents\учеба\ооп\ex1\Header.h(5,1): error C2144: синтаксическая ошибка: перед "float" требуется ";"
+C:\Users\User\Documents\учеба\ооп\ex1\Header.h(3,7): error C2734: pi: объект const необходимо инициализировать, если он не внешний
+C:\Users\User\Documents\учеба\ооп\ex1\Source1.cpp(9,21): error C4578: "abs": преобразование из "float" в "int", возможна потеря данных (подразумевался вызов "fabsf" или включение (#include) <cmath>?)
+C:\Users\User\Documents\учеба\ооп\ex1\Source1.cpp(9,35): error C4578: "abs": преобразование из "float" в "int", возможна потеря данных (подразумевался вызов "fabsf" или включение (#include) <cmath>?)
+C:\Users\User\Documents\учеба\ооп\ex1\Source1.cpp(9,50): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Documents\учеба\ооп\ex1\Source1.cpp(18,20): error C2065: M_PI: необъявленный идентификатор
+C:\Users\User\Documents\учеба\ооп\ex1\Source1.cpp(18,44): error C2059: синтаксическая ошибка: ;
