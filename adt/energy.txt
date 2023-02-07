@@ -1,0 +1,215 @@
+﻿#include <iostream>
+#include <string>
+
+using namespace std;
+
+class EnergyDrink
+{
+private:
+	string Brand, Taste, Name;
+	float EnergyValue, Сaffeine, Taurine, Price, Volume;
+
+public:
+	
+	/**************конструктор**************/
+	
+	EnergyDrink(string Brand, string Name, string Taste, float collories, float Caf_mgml, float Tau_mgml, float rub, float ml)
+	{
+		SetBrand(Brand);			//название марки
+		SetName(Name);				//название напитка
+		SetTaste(Taste);			//вкус
+		SetEnergyValue(collories);	//энергетическая ценость 
+		SetСaffeine(Caf_mgml);		//кофеин
+		SetTaurine(Tau_mgml);		//таурин	
+		SetPrice(rub);				//цена
+		SetVolume(ml);				//объем
+	}
+	
+
+
+
+
+	/**************гетеры**************/
+
+	//возращаем название марки
+	string GetBrand()	
+	{
+		return Brand;
+	}
+
+	//возращаем название напитка
+	string GetName()
+	{
+		return Name;
+	}
+
+	//возращаем вкус
+	string GetTaste()
+	{
+		return Taste;
+	}
+
+	//возращаем энергетичесскую ценность
+	float GetEnergyValue()
+	{
+		return EnergyValue;
+	}
+
+	//возращаем кофеин
+	float GetСaffeine()
+	{
+		return Сaffeine;
+	}
+	
+	//возращаем таурин
+	float GetTaurine()
+	{
+		return Taurine;
+	}
+	
+	//возращаем цену
+	float GetPrice()
+	{
+		return Price;
+	}
+
+	//возращаем объем
+	float GetVolume()
+	{
+		return Volume;
+	}
+
+
+
+
+
+	/**************сетеры**************/
+
+	//записываем название марки
+	void SetBrand(string Brand)
+	{
+		this->Brand = Brand;
+	}
+
+	//записываем название напитка
+	void SetName(string Name)
+	{
+		this->Name = Name;
+	}
+
+	//записываем вкус
+	void SetTaste(string Taste)
+	{
+		this->Taste = Taste;
+	}
+
+	//задаем калл
+	void SetEnergyValue(float collories)
+	{
+		if (collories > 0)
+			this->EnergyValue = collories;
+		else 
+			throw "Invalid value";
+	}
+
+	//задаем кофеин
+	void SetСaffeine(float mgml)
+	{
+		if (mgml > 0)
+			this->Сaffeine = mgml;
+		else
+			throw "Invalid value";
+	}
+
+	//задаем таурин
+	void SetTaurine(float mgml)
+	{
+		if (mgml > 0)
+			this->Taurine = mgml;
+		else
+			throw "Invalid value";
+	}
+
+	//задаем цену
+	void SetPrice(float rub)
+	{
+		if (rub > 0)
+			this->Price = rub;
+		else
+			throw "Invalid value";
+	}
+	
+	//задаем объем
+	void SetVolume(float ml)
+	{
+		if ((0.2 < ml) && (ml < 0.5))
+			this->Volume = ml;
+		else
+			throw "too little or too much";
+	}
+	
+
+
+
+
+	/**************методы**************/
+
+	/*void composition()
+	{
+		cout << "";
+	}*/
+
+
+	/*//увеличение кол-ва ключей
+	int IncKey(int num)
+	{
+		return Key += num;
+	}
+
+	//увеличение кол-ва банок
+	int IncCan(int num)
+	{
+		return Can += num;
+	}
+
+	//автомат из банок
+	void CanGun()
+	{
+		if (Can >= 13)			//если банок >13, можно сделать автомат из банок
+		{
+			cout << "Congratulations! You can do CanGun" << endl;
+		}
+		if ((Can % 13) >= 2)	//если банок хватит на два или больше, сообщаем об этом
+		{
+			cout << "and to be more precise, you can do " << Can % 13 << " CanGun" << endl;
+		}
+	}
+
+	//корона из банок
+	void CanCrown()
+	{
+		if (Can >= 8)			//если банок >8, можно сделать корону из банок
+		{
+			cout << "Congratulations! You can do CanCrown" << endl;
+		}
+		if ((Can % 8) >= 2)	//если банок хватит на две или больше, сообщаем об этом
+		{
+			cout << "and to be more precise, you can do " << Can % 8 << " CanCrown" << endl;
+		}
+	}
+
+	//ожерелье из ключей
+	void Necklace()
+	{
+		if (Key >= 100)			//если ключей >100, можно сделать ожерелье из ключей
+		{
+			cout << "Congratulations! You can do Necklace" << endl;
+		}
+	}*/
+};
+
+
+int main()
+{
+    std::cout << "Hello World!\n";
+}
