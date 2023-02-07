@@ -1,0 +1,5 @@
+﻿  energy.cpp
+C:\Users\User\Documents\учеба\ооп\adt\energy\energy.cpp(17,10): fatal error C1083: Не удается открыть файл включение: energy.h: No such file or directory,
+  Source.cpp
+C:\Users\User\Documents\учеба\ооп\adt\energy\Source.cpp(4,10): fatal error C1083: Не удается открыть файл включение: energy.h: No such file or directory,
+  Создание кода...
